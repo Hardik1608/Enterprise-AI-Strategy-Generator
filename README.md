@@ -110,5 +110,5 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hardiksoni16/
 ---
 
 <div align="center">
-Made with ❤️ by [Hardik Soni]
+Made with ❤️ by Hardik Soni
 </div> 
